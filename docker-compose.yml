@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  programita:
+    build: .
+    container_name: programita
+    restart: always
+    tty: true
+    ports:
+      - "8080":"80"
