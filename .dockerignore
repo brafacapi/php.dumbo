@@ -10,13 +10,9 @@ apidoc/*
 .editorconfig
 .dockerignore
 Dockerfile
+docker-compose.yml
 task-definition*.json
 pre-commit
-package-lock.json
-composer.lock
 .buildpath
-raspberry/*
 node_modules/*
 **.po~
-app/webroot/uploads/*
-vendor/*

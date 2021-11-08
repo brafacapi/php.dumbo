@@ -1,5 +1,5 @@
 {
-    "name": "parcial",
+    "name": "brayan/programita",
     "description": "Parcial de programacion web",
     "keywords": [
         "parcial",
@@ -10,7 +10,7 @@
     "require": {
         "php": "^7.4.0",
         "ext-pdo": "*",
-        "rantes/dumbophp": "^2.8.2.8"
+        "rantes/dumbophp": "^2.8.2.20"
     },
     "require-dev": {},
     "autoload": {
